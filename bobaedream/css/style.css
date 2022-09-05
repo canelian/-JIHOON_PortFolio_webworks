@@ -62,6 +62,10 @@ section .container {
   color: #fff;
   font-size: 5vw;
 }
+#intro #bobea {
+  color: #0070BD;
+  text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+}
 #buttom {
   position: relative;
   left: 50px;

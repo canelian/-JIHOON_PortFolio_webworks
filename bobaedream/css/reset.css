@@ -4,8 +4,8 @@
   box-sizing: border-box;
 }
 body {
-  max-width: 1920px;
-  max-height: 1080px;
+  max-width: 160vw;
+  min-width: 100vh;
   margin: 0 auto;
   font-family: 'Nanum Gothic', sans-serif;
 }
