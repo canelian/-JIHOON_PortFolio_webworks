@@ -344,12 +344,12 @@ main .mainbody1 .usedcar .sale5 {
 main .mainbody2 {
   width: 39vw;
   height: 1489px;
-  border: 1px solid red;
+  /*border: 1px solid red;*/
   padding: 30px 30px 30px 27px;
 }
 /*커뮤니티 베스트*/
 main .mainbody2 .comunity {
-  border: 1px solid;
+  /*border: 1px solid;*/
   height: 346px;
   width: 29vw;
   margin-bottom: 30px;
@@ -409,6 +409,7 @@ main .mainbody2 .comunity .ranking span:hover {
 }
 /*매매가이드*/
 main .mainbody2 .salesguide {
+  width: 346px;
   height: 368px;
   margin-bottom: 30px;
   /*border: 1px solid;*/
@@ -438,12 +439,14 @@ main .mainbody2 .salesguide .img-sales1 > img {
 }
 /*bobea app*/
 main .mainbody2 .app {
+  width: 346px;
   height: 93px;
   border: 1px solid;
   margin-bottom: 30px;
 }
 /*SNS*/
 main .mainbody2 .sns {
+  width: 346px;
   height: 87px;
   border: 1px solid;
 }
